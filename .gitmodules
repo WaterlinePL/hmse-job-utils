@@ -1,0 +1,3 @@
+[submodule "hmse_projects"]
+	path = hmse_projects
+	url = git@github.com:WaterlinePL/hmse_projects.git
